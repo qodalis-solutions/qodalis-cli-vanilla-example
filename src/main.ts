@@ -1,4 +1,4 @@
-import '@xterm/xterm/css/xterm.css';
+import '@qodalis/cli/assets/styles.css';
 import { CliEngine } from '@qodalis/cli';
 import { guidModule } from '@qodalis/cli-guid';
 import { filesModule } from '@qodalis/cli-files';
