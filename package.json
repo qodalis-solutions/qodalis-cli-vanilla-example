@@ -9,11 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@qodalis/cli": "^2.4.1",
-    "@qodalis/cli-core": "^2.4.1",
-    "@qodalis/cli-files": "^2.4.1",
-    "@qodalis/cli-guid": "^2.4.1",
-    "@qodalis/cli-users": "^2.4.1"
+    "@qodalis/cli": "^2.4.2",
+    "@qodalis/cli-core": "^2.4.2",
+    "@qodalis/cli-files": "^2.4.2",
+    "@qodalis/cli-guid": "^2.4.2",
+    "@qodalis/cli-users": "^2.4.2"
   },
   "devDependencies": {
     "typescript": "~5.6.0",
